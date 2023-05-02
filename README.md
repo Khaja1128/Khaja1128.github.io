@@ -1,4 +1,4 @@
-# <a href="https://people.umass.edu/Pathan Khaja Vali" target="_blank">My Portfolio Website</a>
+# <a href="https://khaja1128.github.io">My Portfolio Website</a>
 
 
  <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects </p>
